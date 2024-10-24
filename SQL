@@ -57,3 +57,5 @@ GROUP BY BRANDS
 ORDER BY 1 DESC
   ```
 
+![IMG_3271](https://github.com/user-attachments/assets/9627a31f-75d0-4c48-a73b-d648771b1f75)
+![IMG_3270](https://github.com/user-attachments/assets/49d971b8-a14b-4c7c-bf2d-08a071124117)
