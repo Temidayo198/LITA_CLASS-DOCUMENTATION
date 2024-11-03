@@ -43,6 +43,9 @@ Data Analysis: Utilize Data Analysis Expressions (DAX) for creating custom calcu
 
 Data Visualization: The use of various visual elements (charts, graphs, tables, cards) to represent data visually.
 
+![Screenshot (14)](https://github.com/user-attachments/assets/92a6274f-8493-4be7-8d70-fc96801583db)
+
+
 ### Results
 ---
 
